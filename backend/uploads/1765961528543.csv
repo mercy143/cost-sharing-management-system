@@ -1,0 +1,21 @@
+studentId,fullName,program,yearsAtUniversity,graduationDate,costSharingAmount
+STU001,Abebe Kebede,Computer Science,3,2023-07-01,45000
+STU002,Mulugeta Tadesse,Civil Engineering,4,2022-06-15,60000
+STU003,Fatuma Ahmed,Medicine,6,2020-08-10,150000
+STU004,Tewodros Lemma,Electrical Engineering,5,2021-07-20,80000
+STU005,Selamawit Girma,Law,3,2023-06-30,35000
+STU006,Yordanos Haile,Accounting,4,2022-07-05,40000
+STU007,Kidane Tesfaye,Mechanical Engineering,5,2021-06-01,90000
+STU008,Genet Assefa,Nursing,4,2022-08-15,55000
+STU009,Berhanu Mengistu,Information Technology,3,2024-07-01,42000
+STU010,Eyerusalem Solomon,Architecture,6,2019-07-10,120000
+STU011,Daniel Negussie,Business Administration,3,2023-07-20,38000
+STU012,Helen Getachew,Pharmacy,5,2021-07-15,95000
+STU013,Meron Tekle,Software Engineering,4,2022-06-30,65000
+STU014,Samuel Wolde,Chemical Engineering,5,2021-08-01,85000
+STU015,Liya Bekele,Psychology,3,2024-06-20,30000
+STU016,Getnet Asfaw,Environmental Science,4,2022-07-10,48000
+STU017,Ruth Solomon,Public Health,5,2021-06-25,70000
+STU018,Teshome Birhanu,Geology,6,2020-07-05,110000
+STU019,Eden Hailu,Graphic Design,3,2024-06-15,32000
+STU020,Michael Tsegaye,Aerospace Engineering,5,2021-08-20,100000
